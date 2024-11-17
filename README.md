@@ -29,7 +29,7 @@ I work with a wide range of technologies that empower me to build scalable and e
 - **Cloud**: AWS, Docker, EC2, ECS, S3
 - **Database**: MongoDB, PostgreSQL, MySQL
 - **Version Control**: Git, GitHub, 
-- **Other**: Docker, Linux , Postman
+- **Other**: Docker, Linux, Postman
 
 ---
 
@@ -105,23 +105,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ### 🌟 **Thank you for visiting my GitHub!** 😊
-
----
-
-## 📸 **Personal Touch**
-![Lakshay](https://avatars.githubusercontent.com/u/1325223?v=4)
-*(This is just a placeholder for your personal avatar! You can upload your picture here.)*
-
----
-
-### 🎨 **Readme Design Credits**
-- Icons by [Icons8](https://icons8.com/).
-- Images sourced from [Unsplash](https://unsplash.com/).
-
----
-
-## 💬 **Fun Fact**
-I enjoy experimenting with new technologies and am always open to discussing **cutting-edge innovations** in **AI**, **Cloud**, and **Web Development**!
 
 ---
 
