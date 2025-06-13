@@ -1,6 +1,6 @@
 # 💻 **Lakshay Bhatia's Portfolio** 🌟
 
-Welcome to my GitHub! 🎉 I'm a passionate **Computer Science student** and **Developer**. Here you will find my projects related to **Machine Learning**, **Web Development**, **Cloud Computing**, and much more. I believe in continuous learning and sharing knowledge to empower others. 🚀
+Welcome to my GitHub! 🎉 I'm a passionate **Computer Science student** and **Developer**. Here you will find my projects related to **Machine Learning**, **Deep learning & NLP**, and much more. I believe in continuous learning and sharing knowledge to empower others. 🚀
 
 ---
 
@@ -11,7 +11,6 @@ I'm **Lakshay Bhatia**, a third-year **B.Tech in Computer Science** student at *
 - **Backend Development** with frameworks like **Spring Boot** and **FastAPI**
 - **Machine Learning** & **Deep Learning** using **TensorFlow** and **PyTorch**
 - **Cloud Computing** with **AWS** and **Docker**
-- **Full Stack Development** with **React** and **Spring Boot**
 
 💡 **Fun Fact:** I believe in the power of **collaboration** and enjoy leading projects to create hands-on developer communities. 🎯
 
@@ -55,7 +54,7 @@ Here are some of my personal and professional projects:
 ## 🏆 **Achievements & Certifications**
 
 - **Google Developer Groups (GDG) Campus Lead**: Leading initiatives for **300+ students** through **coding boot camps**, **tech sessions**, and **project showcases**.
-- **Machine Learning Specialization**: Deep understanding of ML concepts, supervised/unsupervised learning, neural networks, and AI.
+- **Machine Learning Specialization and Deep Learning Specialization by Andrew Ng on Coursera**: Deep understanding of ML concepts, supervised/unsupervised learning, neural networks, and AI.
 - **Google Cybersecurity Specialization**: Enhanced understanding of **cybersecurity principles** and best practices.
 - **Core Member, GDSC and Thinkbots (Robotics Society)**: Mentored **200+ junior students** in programming fundamentals and machine learning.
   
@@ -67,23 +66,9 @@ Let's connect and collaborate! 💬
 
 - **Email:** [lakshaybhatia46@gmail.com](mailto:lakshaybhatia46@gmail.com)
 - **LinkedIn:** [Lakshay Bhatia](https://www.linkedin.com/in/lakshay-bhatia-3b52b8256/)
-- **GitHub:** [Lakshayb143](https://github.com/Lakshayb143)
 
 ---
 
-## 🔮 **What’s Next?**
-
-- **Continuous Learning:** Diving deeper into **AI/ML** and **Cloud Technologies**.
-- **Full Stack Development:** Building interactive and user-friendly applications.
-- **Open-Source Contribution:** Contributing to innovative open-source projects.
-
----
-
-## 📄 **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ### 🌟 **Thank you for visiting my GitHub!** 😊
 
