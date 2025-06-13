@@ -49,25 +49,6 @@ Here are some of my personal and professional projects:
 
 ---
 
-### 2. **[Student Performance Predictor](https://github.com/Lakshayb143/Student_performance_predictor)** 📈
-- **Tech Stack:** Python, Flask, AWS ECS, XGBoost, Scikit-learn
-- 🚀 **Overview**: A web app that predicts student performance based on various academic metrics.
-- 🧠 **Key Features**:
-  - Flask API for serving predictions.
-  - Model hyperparameter tuning for improved accuracy.
-  - Deployed on **AWS Elastic Container Service** for scalable performance.
-
-![Student Performance](https://img.icons8.com/external-flat-juicy-fish/64/external-performance-data-analysis-flat-flat-juicy-fish.png)
-
----
-
-### 3. **[Journal App](https://github.com/Lakshayb143/Journal-App)** 📔
-- **Tech Stack:** Java, Spring Boot, MongoDB, AWS EC2
-- 🚀 **Overview**: A journaling app with secure authentication and encrypted data storage.
-- 🧠 **Key Features**:
-  - Built backend with **Spring Boot**.
-  - Integrated with **MongoDB** for data storage.
-  - Deployed on **AWS EC2** for easy access and scalability.
 
 ---
 
