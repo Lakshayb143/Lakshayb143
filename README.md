@@ -30,24 +30,6 @@ I work with a wide range of technologies that empower me to build scalable and e
 - **Version Control**: Git, GitHub, 
 - **Other**: Docker, Linux, Postman
 
----
-
-## 📂 **My Projects**
-
-Here are some of my personal and professional projects:
-
-### 1. **[Price Prediction Model](https://github.com/Lakshayb143/Prediction-model)** 📊
-- **Tech Stack:** Python, Scikit-learn, ZenML, MLflow, Docker
-- 🚀 **Overview**: Developed a machine learning model to predict product prices based on historical data.
-- 🧠 **Key Features**:
-  - Model training with automated pipeline deployment.
-  - Interactive web UI for model interaction.
-  - Deployed as a Docker container.
-
-![Price Prediction](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-machine-learning-flaticons-lineal-color-flat-icons.png)
-
----
-
 
 ---
 
