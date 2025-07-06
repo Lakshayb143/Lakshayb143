@@ -1,58 +1,49 @@
-# 💻 **Lakshay Bhatia's Portfolio** 🌟
+# 👋 Hi, I'm Lakshay Bhatia
 
-Welcome to my GitHub! 🎉 I'm a passionate **Computer Science student** and **Developer**. Here you will find my projects related to **Machine Learning**, **Deep learning & NLP**, and much more. I believe in continuous learning and sharing knowledge to empower others. 🚀
-
----
-
-## 🧑‍💻 **About Me**
-
-I'm **Lakshay Bhatia**, a third-year **B.Tech in Computer Science** student at **DCRUST, Murthal**. I am keenly interested in solving complex problems with technology and enjoy building impactful solutions. My areas of expertise include:
-
-- **Backend Development** with frameworks like **Spring Boot** and **FastAPI**
-- **Machine Learning** & **Deep Learning** using **TensorFlow** and **PyTorch**
-- **Cloud Computing** with **AWS** and **Docker**
-
-💡 **Fun Fact:** I believe in the power of **collaboration** and enjoy leading projects to create hands-on developer communities. 🎯
+I'm a final-year Computer Science undergrad from DCRUST, Haryana, and also pursuing a B.Sc. in Data Science from IIT Madras. I specialize in building practical and scalable AI/ML systems — from real-time computer vision pipelines to secure adversarial defense tools and LLM-based agentic applications.
 
 ---
 
-## 🚀 **Technologies & Tools**
+## 🚀 What I Work On
 
-I work with a wide range of technologies that empower me to build scalable and efficient systems:
+### 👁️ Computer Vision
+- **Cross-Camera Player Re-ID**  
+  Modular multi-view sports analytics system using YOLO, TorchReID, and homography  
+  → [Project Link](https://github.com/Lakshayb143/Cross-Camera-Player-Mapping)
 
-### 🌐 **Languages & Frameworks**
-- **Languages**: Python, Java, JavaScript, Rust
-- **Frameworks**: Spring Boot, Flask, React, FastAPI, TensorFlow, PyTorch
+### 🧠 LLM Applications
+- **Philoverse**  
+  Real-time agentic simulation of philosophers with LangGraph + RAG + WebSockets  
+  → Handles 1000+ sessions/min with sub-300ms latency  
+  → [Project Link](https://github.com/Lakshayb143/Philoverse)
 
-### 🛠️ **Tools & Platforms**
-- **Cloud**: AWS, Docker, EC2, ECS, S3
-- **Database**: MongoDB, PostgreSQL, MySQL
-- **Version Control**: Git, GitHub, 
-- **Other**: Docker, Linux, Postman
-
-
----
-
-## 🏆 **Achievements & Certifications**
-
-- **Google Developer Groups (GDG) Campus Lead**: Leading initiatives for **300+ students** through **coding boot camps**, **tech sessions**, and **project showcases**.
-- **Machine Learning Specialization and Deep Learning Specialization by Andrew Ng on Coursera**: Deep understanding of ML concepts, supervised/unsupervised learning, neural networks, and AI.
-- **Google Cybersecurity Specialization**: Enhanced understanding of **cybersecurity principles** and best practices.
-- **Core Member, GDSC and Thinkbots (Robotics Society)**: Mentored **200+ junior students** in programming fundamentals and machine learning.
-  
----
-
-## 🌍 **Get in Touch** 🌱
-
-Let's connect and collaborate! 💬
-
-- **Email:** [lakshaybhatia46@gmail.com](mailto:lakshaybhatia46@gmail.com)
-- **LinkedIn:** [Lakshay Bhatia](https://www.linkedin.com/in/lakshay-bhatia-3b52b8256/)
+### 🛡️ AI Security
+- **TrustML**  
+  Adversarial input detection using anomaly detection models + Rust-Python integration  
+  → [Project Link](https://github.com/Lakshayb143/TrustML)
 
 ---
 
+## 🧰 Tools & Tech
 
-### 🌟 **Thank you for visiting my GitHub!** 😊
+- **Languages:** Python, C++, Rust, SQL, Java  
+- **Frameworks:** PyTorch, Scikit-learn, TensorFlow, FastAPI, LangGraph  
+- **Infra & DevOps:** Docker, AWS, MongoDB, Git, MLflow, ZenML  
+- **Concepts:** Agentic AI, RAG, CV, Adversarial ML, LLMOps, MLOps  
 
 ---
 
+## 🏅 Highlights
+
+- **Google Developer Groups (GDG) Campus Lead** — built tech community from scratch  
+- **Consistent Problem Solver** — 2★ on CodeChef, 1150+ on Codeforces  
+- **Publications & Research** — actively exploring CV + LLM research applications  
+
+---
+
+## 📬 Reach Out
+
+- ✉️ [lakshaybhatia46@gmail.com](mailto:lakshaybhatia46@gmail.com)  
+- 🌐 [LinkedIn](https://linkedin.com/in/lakshay-bhatia-3b52b8256)  
+
+Thanks for stopping by! I’m always open to collaborating, contributing, or just chatting about machine learning, open-source, or life in tech 🌱
