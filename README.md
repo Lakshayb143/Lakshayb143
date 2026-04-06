@@ -16,7 +16,7 @@
 
 <!-- Custom Profile Banner -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/YourID/YourRepo/profile_header.png" width="100%" />
+  <img src="https://github.com/Lakshayb143/Lakshayb143/blob/main/profile_header.png" width="100%" />
 </p>
 
 <!-- Alternative: Use this URL after uploading your images to GitHub -->
@@ -72,8 +72,8 @@
 
 <!-- Holographic Card Effect -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LakshayBhatia/LakshayBhatia/main/holo_card.png" width="300" alt="Holographic Card" />
-  <img src="https://raw.githubusercontent.com/LakshayBhatia/LakshayBhatia/main/cyber_badge.png" width="200" alt="Cyber Badge" />
+  <img src="https://github.com/Lakshayb143/Lakshayb143/blob/main/holo_card.png" width="300" alt="Holographic Card" />
+  <img src="https://github.com/Lakshayb143/Lakshayb143/blob/main/cyber_badge.png" width="200" alt="Cyber Badge" />
 </div>
 
 ---
