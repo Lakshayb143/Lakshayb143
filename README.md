@@ -51,38 +51,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&size=22&duration=3000&pause=500&color=00D9FF&background=0D111700&width=800&height=100&lines=const%20engineer%20=%20%7B%0A%20%20name%3A%20%22Lakshay%20Bhatia%22%2C%0A%20%20passion%3A%20%22AI%2FML%20Systems%22%2C%0A%20%20status%3A%20%222026%20Graduate%22%0A%20%7D%0Aconsole.log(engineer)" alt="Code Typing" />
 </p>
 
----
-
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lakshayb143&theme=radical&bg_color=0D1117&title_color=00D9FF&text_color=8B949E&icon_color=FF6B6B&show_icons=true&include_all_commits=true&count_private=true&ring=true)
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=Lakshayb143&theme=radical&background=0D1117&stroke=00D9FF&fire=FF6B6B&ring=00D9FF&currStreakNum=00D9FF&sideNums=00D9FF&currStreakLabel=FF6B6B&sideLabels=00D9FF&labels=8B949E)
-
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshayb143&theme=radical&bg_color=0D1117&title_color=FF6B6B&text_color=8B949E&icon_color=00D9FF&layout=compact)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lakshayb143&theme=radical&column=7&title=Commits,Repos,Stars,Followers,PullRequests,Issues" width="100%" />
-</p>
 
 ---
 
@@ -163,13 +131,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,fastapi,react,flask,ubuntu,anaconda&theme=dark&perline=6" alt="AI/ML Frameworks" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,ubuntu,anaconda&theme=dark&perline=6" alt="AI/ML Frameworks" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,notion,mlflow&theme=dark&perline=5" alt="DevOps & Cloud" />
+    <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,mlflow,fastapi,react,flask&theme=dark&perline=5" alt="DevOps & Cloud" />
   </a>
 </p>
 
