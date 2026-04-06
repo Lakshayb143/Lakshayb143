@@ -53,20 +53,52 @@
 
 ---
 
-<!-- CRT Retro Stats Cards -->
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://pixel-profile.vercel.app/api/github-stats?username=LakshayBhatia&background=%230D1117&title_color=00FF41&text_color=00FF41&icon_color=FF6B6B&theme=crt&screen_effect=true&include_all_commits=true&count_private=true" alt="CRT Stats" width="45%" />
-  <img src="https://pixel-profile.vercel.app/api/github-stats?username=LakshayBhatia&background=%230D1117&title_color=FF6B6B&text_color=FF6B6B&icon_color=00D9FF&theme=crt&screen_effect=true&hide=stars,prs,issues&rank=true" alt="CRT Rank" width="45%" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LakshayBhatia&theme=radical&bg_color=0D1117&title_color=00D9FF&text_color=8B949E&icon_color=FF6B6B&show_icons=true&include_all_commits=true&count_private=true&ring=true)
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=LakshayBhatia&theme=radical&background=0D1117&stroke=00D9FF&fire=FF6B6B&ring=00D9FF&currStreakNum=00D9FF&sideNums=00D9FF&currStreakLabel=FF6B6B&sideLabels=00D9FF&labels=8B949E)
+
+</div>
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LakshayBhatia&theme=radical&bg_color=0D1117&title_color=FF6B6B&text_color=8B949E&icon_color=00D9FF&layout=compact)
+
 </div>
 
 ---
 
-<!-- GitHub Profile Trophies -->
+## 🏆 GitHub Trophies
+
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LakshayBhatia&theme=radical&column=7&title=Commits,Repos,Stars,Followers,PullRequests,Issues" width="100%" />
+</p>
+
+---
+
+<!-- CRT Retro Stats Cards -->
+<!-- <div align="center">
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=LakshayBhatia&background=%230D1117&title_color=00FF41&text_color=00FF41&icon_color=FF6B6B&theme=crt&screen_effect=true&include_all_commits=true&count_private=true" alt="CRT Stats" width="45%" />
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=LakshayBhatia&background=%230D1117&title_color=FF6B6B&text_color=FF6B6B&icon_color=00D9FF&theme=crt&screen_effect=true&hide=stars,prs,issues&rank=true" alt="CRT Rank" width="45%" />
+</div> -->
+
+
+<!-- GitHub Profile Trophies -->
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=LakshayBhatia&theme=radical&no-frame=true&column=7&title=Commits,Repos,Stars,Followers,PullRequests,Issues" width="100%" alt="Trophies"/>
   </a>
-</p>
+</p> -->
 
 ---
 
@@ -82,7 +114,6 @@
 <div align="center">
 
 ![visitors](https://komarev.com/ghpvc/?username=LakshayBhatia&label=PROFILE+VIEWS&color=FF6B6B&style=for-the-badge&logo=github)
-![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=LakshayBhatia&theme=radical&bg_color=0D1117&title_color=00D9FF&text_color=8B949E&icon_color=FF6B6B)
 
 </div>
 
@@ -126,55 +157,27 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,rust,java,sql&theme=dark&perline=5" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,rust,neovim,java,sql&theme=dark&perline=5" alt="Languages" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,yolo,opencv,fastapi,flask&theme=dark&perline=6" alt="AI/ML Frameworks" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,yolo,opencv,sklearn,fastapi,react,flask&theme=dark&perline=6" alt="AI/ML Frameworks" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux&theme=dark&perline=5" alt="DevOps & Cloud" />
+    <img src="https://skillicons.dev/icons?i=anaconda,docker,aws,git,github,linux,vim,notion&theme=dark&perline=5" alt="DevOps & Cloud" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mlflow,graphql&theme=dark&perline=4" alt="Data & MLOps" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,postgres,mlflow,ubuntu&theme=dark&perline=4" alt="Data & MLOps" />
   </a>
 </p>
-
----
-
-## Education
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│   ╔═══════════════════════════════════════════════════════════════════════╗ │
-│   ║  🎓  B.TECH COMPUTER SCIENCE  ·  DCRUST MURTHAL                     ║ │
-│   ║  📊  CGPA: 7.9/10  ·  📅 2022 – 2026                                ║ │
-│   ╚═══════════════════════════════════════════════════════════════════════╝ │
-│                                                                             │
-│                              ║                                             │
-│                              ║                                             │
-│                              ▼                                             │
-│                                                                             │
-│   ╔═══════════════════════════════════════════════════════════════════════╗ │
-│   ║  🎓  B.SC DATA SCIENCE  ·  IIT MADRAS                               ║ │
-│   ║  📊  CGPA: 8.0/10  ·  📅 2023 – 2024                                ║ │
-│   ╚═══════════════════════════════════════════════════════════════════════╝ │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
 
 ---
 
