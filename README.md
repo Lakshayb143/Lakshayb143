@@ -72,7 +72,7 @@
 
 <!-- Holographic Card Effect -->
 <div align="center">
-  <img src="https://github.com/Lakshayb143/Lakshayb143/blob/main/holo_card.png" width="300" alt="Holographic Card" />
+  <!-- <img src="https://github.com/Lakshayb143/Lakshayb143/blob/main/holo_card.png" width="300" alt="Holographic Card" /> -->
   <img src="https://github.com/Lakshayb143/Lakshayb143/blob/main/cyber_badge.png" width="200" alt="Cyber Badge" />
 </div>
 
