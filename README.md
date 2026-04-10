@@ -168,9 +168,8 @@
 ## Competitive Programming
 
 <div align="center">
-
-[![CodeChef](https://img.shields.io/badge/CodeChef-3%E2%98%85%20(1347)-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/lakshayb143)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1189%20(Specialist)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/lakshayb143)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1189-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/loopbreaker143)
+[![CodeChef](https://img.shields.io/badge/CodeChef-3%E2%98%85-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/loopbreaker143)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/lakshaybhatia/)
 
 </div>
